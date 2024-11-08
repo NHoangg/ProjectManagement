@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\DOANOOPCK\DOANOOPCK\obj\Debug\net8.0\DOANOOPCK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\DOANOOPCK\DOANOOPCK\obj\Debug\net8.0\DOANOOPCK.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\DOANOOPCK\DOANOOPCK\obj\Debug\net8.0\DOANOOPCK.AssemblyInfo.cs
+C:\Users\ACER\source\repos\DOANOOPCK\DOANOOPCK\obj\Debug\net8.0\DOANOOPCK.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DOANOOPCK\DOANOOPCK\bin\Debug\net8.0\DOANOOPCK.exe
+C:\Users\ACER\source\repos\DOANOOPCK\DOANOOPCK\bin\Debug\net8.0\DOANOOPCK.deps.json
+C:\Users\ACER\source\repos\DOANOOPCK\DOANOOPCK\bin\Debug\net8.0\DOANOOPCK.runtimeconfig.json
+C:\Users\ACER\source\repos\DOANOOPCK\DOANOOPCK\bin\Debug\net8.0\DOANOOPCK.dll
+C:\Users\ACER\source\repos\DOANOOPCK\DOANOOPCK\bin\Debug\net8.0\DOANOOPCK.pdb
+C:\Users\ACER\source\repos\DOANOOPCK\DOANOOPCK\obj\Debug\net8.0\DOANOOPCK.dll
+C:\Users\ACER\source\repos\DOANOOPCK\DOANOOPCK\obj\Debug\net8.0\refint\DOANOOPCK.dll
+C:\Users\ACER\source\repos\DOANOOPCK\DOANOOPCK\obj\Debug\net8.0\DOANOOPCK.pdb
+C:\Users\ACER\source\repos\DOANOOPCK\DOANOOPCK\obj\Debug\net8.0\DOANOOPCK.genruntimeconfig.cache
+C:\Users\ACER\source\repos\DOANOOPCK\DOANOOPCK\obj\Debug\net8.0\ref\DOANOOPCK.dll
